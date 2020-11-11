@@ -1,9 +1,4 @@
 # Estudio operador regex
 
-cho "# 09112020" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/vegapereamarina/09112020.git
-git push -u origin main
+* Crear una base de datos que contenga campos de tipo cadenas de caracteres,numérico y documento
+* Crear búsquedas que contengas los operadores $eq, $gt, $gte, $in, $lt, $lte, $ne, $nin, $and, $not, $nor, $or y $regex
