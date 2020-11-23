@@ -1,4 +1,4 @@
 # Estudio operador regex
 
-* Crear una base de datos que contenga campos de tipo cadenas de caracteres,numérico y documento
-* Crear búsquedas que contengas los operadores $eq, $gt, $gte, $in, $lt, $lte, $ne, $nin, $and, $not, $nor, $or y $regex
+* He creado una base de datos con los campos de tipo cadenas de caracteres,numérico y documento
+* He investigado los operadores $eq, $gt, $gte, $in, , $nin, $lt, $lte, $and, $nor, $or y $regex
